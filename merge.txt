@@ -1,1 +1,1 @@
-There are possibilities of marge conflict here
+Merge conflict can happen
