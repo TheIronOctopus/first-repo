@@ -1,1 +1,2 @@
-This is another file. It has some more contents
+This is another file. It has some more contents.
+This is second line added to this file.
